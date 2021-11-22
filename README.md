@@ -1,3 +1,12 @@
+# Desafio de front-end do projeto Tesereft by ElmoJr
+
+o desafio consistia em implementar um Design integrado à API RESTfull com as tecnologias que já sabem.  
+
+api: https://jsonplaceholder.typicode.com/users 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
