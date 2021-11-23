@@ -13,7 +13,7 @@ export default function User({id, userName, name, company , phone, email, street
             <p><MdCall/>Phone: {phone}</p>
             <p><MdAlternateEmail/>Email: {email}</p>
             <p><MdPlace/>Address: {street}, {suite} - {city}, {zipcode}</p>
-            <a href={"https://" + website} ><MdLaptop />website</a>
+            <a target='_blank' href={"https://" + website} ><MdLaptop />website</a>
         </Container>
     )
 }
